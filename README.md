@@ -49,7 +49,7 @@ Key Features
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/office-equipment-sales.git
+   git clone https://github.com/bode92@github.com/office-equipment-sales.git
    cd office-equipment-sales
 
 
